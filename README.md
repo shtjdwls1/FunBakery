@@ -97,7 +97,7 @@
 <details>
 <summary><h2>📌 서비스 흐름도</h2></summary>
 <div markdown="1">
-![image](/uploads/a2e60c64980febc5f84c8131c479ddfb/image.png)
+![ServiceFlow](https://user-images.githubusercontent.com/101631017/217163943-e70dda74-3b42-49db-92c5-b7ee5fa2194f.png)
 <br>
 </div>
 </details>
@@ -106,7 +106,7 @@
 <details>
 <summary><h2>📌 ER 다이어그램</h2></summary>
 <div markdown="1">
-![image](/uploads/f0e6a80a571e71857c10b57341f7e554/image.png)
+![ERD](https://user-images.githubusercontent.com/101631017/217163983-885aed8d-aed2-4e9a-a881-cc2aa9433c9d.png)
 <br>
 </div>
 </details>
@@ -115,7 +115,7 @@
 <details>
 <summary><h2>🖥 화면구성</h2></summary>
 <div markdown="1">
-![image](/uploads/50600db93f2967f95559fdd379368d08/image.png)
+![Display](https://user-images.githubusercontent.com/101631017/217164003-b022897d-de1a-49a2-9bb4-6bc5fad134d8.png)
 <br>
 </div>
 </details>
