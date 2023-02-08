@@ -1,5 +1,5 @@
 # :birthday: Fun (便) Bakery (팀명 : 베이킹왕문지영)
-![Fun_便_Bakery](/uploads/f80967022cd4c783b16febc35091b5ac/Fun_便_Bakery.png)
+![Fun_便_Bakery](https://user-images.githubusercontent.com/101631017/217443817-5022a991-c09e-4c29-8921-301ea5a118b8.png)
 
 ## 👀 프로젝트 소개
 * 프로젝트명 : 사용자 취향 맞춤 베이킹 레시피 제공 서비스
@@ -97,7 +97,7 @@
 <details>
 <summary><h2>📌 서비스 흐름도</h2></summary>
 <div markdown="1">
-![ServiceFlow](https://user-images.githubusercontent.com/101631017/217163943-e70dda74-3b42-49db-92c5-b7ee5fa2194f.png)
+<img src="https://user-images.githubusercontent.com/101631017/217444092-64644e42-93da-4302-847e-7a3d047e47c8.png">
 <br>
 </div>
 </details>
@@ -106,7 +106,7 @@
 <details>
 <summary><h2>📌 ER 다이어그램</h2></summary>
 <div markdown="1">
-![ERD](https://user-images.githubusercontent.com/101631017/217163983-885aed8d-aed2-4e9a-a881-cc2aa9433c9d.png)
+<img src="https://user-images.githubusercontent.com/101631017/217444081-801cc568-d7e2-4373-a976-24e109b79861.png">
 <br>
 </div>
 </details>
@@ -115,7 +115,7 @@
 <details>
 <summary><h2>🖥 화면구성</h2></summary>
 <div markdown="1">
-![Display](https://user-images.githubusercontent.com/101631017/217164003-b022897d-de1a-49a2-9bb4-6bc5fad134d8.png)
+<img src="https://user-images.githubusercontent.com/101631017/217444021-b3a88a72-47be-40cf-8d3b-9b02173857d1.png">
 <br>
 </div>
 </details>
